@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+form {
+  display: flex;
+  gap: 10px;
+}
+
+input, select, button {
+  padding: 8px;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+#error {
+  color: red;
+}
+
+.filters {
+  margin-top: 15px;
+}
