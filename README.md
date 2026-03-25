@@ -11,7 +11,7 @@
 - Active task counter
 
 ## Screenshot
-[(Screenshot)](screenshot.PNG)
+![(Screenshot)](screenshot.PNG)
 
 ## Live Demo
 [(GitHub Pages link here)](https://ethyates.github.io/To-Do-List/)
